@@ -1,0 +1,15 @@
+C:\Example C#\homeworklesson8\tasck56\bin\Debug\net6.0\tasck56.exe
+C:\Example C#\homeworklesson8\tasck56\bin\Debug\net6.0\tasck56.deps.json
+C:\Example C#\homeworklesson8\tasck56\bin\Debug\net6.0\tasck56.runtimeconfig.json
+C:\Example C#\homeworklesson8\tasck56\bin\Debug\net6.0\tasck56.dll
+C:\Example C#\homeworklesson8\tasck56\bin\Debug\net6.0\tasck56.pdb
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.csproj.AssemblyReference.cache
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.AssemblyInfoInputs.cache
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.AssemblyInfo.cs
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.csproj.CoreCompileInputs.cache
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.dll
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\refint\tasck56.dll
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.pdb
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\tasck56.genruntimeconfig.cache
+C:\Example C#\homeworklesson8\tasck56\obj\Debug\net6.0\ref\tasck56.dll
